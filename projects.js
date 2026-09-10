@@ -12,11 +12,11 @@
  */
 const projects = [
   {
-    name: "Amber Grid",
-    creator: "Reed Okafor",
+    name: "Koźlica Tereska",
+    creator: "JolloArt",
     description:
-      "Ciepła, modułowa krata inspirowana splątanymi splotami włóczki. Wzór bada, jak powtarzalna jednostka może tworzyć spójną całość — idealny na kocyk lub poduszkę w stylu Fotello.",
-    image: "images/pattern-1.jpg",
+      "Poznaj Tereskę – urokliwą koźlicę stworzoną z myślą o dających ciepło zachwytach i nieskończonych uściskach! Każdy jej detal został precyzyjnie wykonany ręcznie na szydełku według autorskiego wzoru od JolloArt. Tereska skrada serca swoim słodkim spojrzeniem, puszystą grzywką i piękną, żółtą sukienką z kwiatuszkiem. Wykonana z niezwykle miękkiej włóczki czernilowej (szczelinowej), jest niezwykle miła i puszysta w dotyku – wręcz idealna do przytulania.",
+    image: "images/kozicaTereska.jpg",
     number: "01",
   },
   {
