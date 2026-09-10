@@ -51,4 +51,13 @@ const projects = [
     image: "images/pattern-5.jpg",
     number: "05",
   },
+  //SCHEMAT DODAWANIA:
+//  {
+//    name: "",
+//    creator: "",
+//    description:
+//      "",
+//    image: "",
+//    number: "",
+//  },
 ];
